@@ -12,9 +12,9 @@ int main(int argc, char* argv[])
 {
     char *gm="good morning";
     char *ga="good afternoon";
-    cout<<"����ǰ"<<"gm="<<gm<<" "<<"ga="<<ga<<endl;
-    swap(gm, ga);
-    cout <<"������"<<"gm="<< gm<<" "<<"ga="<<ga << endl;
+    cout<<"½»»»Ç°"<<"gm="<<gm<<" "<<"ga="<<ga<<endl;
+    swap(gm, ga);//字符串可以赋值给变量//
+    cout <<"½»»»ºó"<<"gm="<< gm<<" "<<"ga="<<ga << endl;
     system("pause");
     return 0;
 } 
