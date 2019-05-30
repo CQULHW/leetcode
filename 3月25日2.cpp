@@ -9,7 +9,7 @@ void swap(char*& x, char*& y)
     y = t;
 }
 
-int main(int argc, char* argv[])
+int main()
 {
     char *gm="good morning";
     char *ga="good afternoon";
