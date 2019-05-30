@@ -2,7 +2,7 @@
 #include <iostream>
 
 using namespace std;
-void swap(char*& x, char*& y)
+void swap(char*& x, char*& y)//这里是x和y作为gm,ga的引用
 {
     char *t = x;
     x = y;
